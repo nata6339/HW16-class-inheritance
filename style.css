@@ -1,0 +1,18 @@
+#clock, #star, #slash {
+    position: absolute;
+    top: 20%;
+    width: 99%;
+    margin: -60px auto 0 auto;
+    font-size: 60px;
+    text-align: center;
+    color: black;
+    cursor: pointer;
+}
+
+#slash{
+    top: 40%
+}
+
+#star {
+    top: 60%
+}
